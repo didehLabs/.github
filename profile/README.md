@@ -6,22 +6,22 @@
 
 didehLabs is an innovation lab focused on designing and building intelligent systems that help businesses operate more effectively.
 
-We combine technology, automation, and practical problem-solving to create solutions that uncover hidden inefficiencies, improve decision-making, and drive measurable outcomes.
+We combine technology, automation, and practical problem-solving to create solutions that uncover hidden inefficiencies, surface valuable opportunities, and drive measurable outcomes.
 
 Rather than building technology for its own sake, we focus on creating systems that deliver real value to the people and organizations that use them.
 
 ## What We Do
 
-We develop intelligent solutions that help businesses:
+We build intelligent systems that help organizations:
 
-* Identify hidden problems
+* Discover hidden problems
+* Surface growth opportunities
 * Improve operational efficiency
-* Make better decisions
 * Monitor critical business processes
-* Discover opportunities for growth
-* Turn complex information into actionable insights
+* Support better decision-making
+* Transform data into actionable insights
 
-Our work spans automation, business intelligence, web systems, and AI-powered tools designed to help organizations perform at their best.
+Our work spans artificial intelligence, automation, business intelligence, web platforms, and decision-support systems designed to help organizations perform at their best.
 
 ## Why We Exist
 
@@ -29,11 +29,11 @@ Many of the challenges that limit business growth are difficult to see.
 
 Small inefficiencies compound over time.
 
-Missed opportunities go unnoticed.
+Opportunities go unnoticed.
 
-Important decisions are often made without the right information.
+Critical signals are often buried beneath noise.
 
-We believe technology should help make these problems visible and easier to solve.
+We believe technology should continuously help organizations identify what matters, understand why it matters, and take action before problems become costly.
 
 didehLabs exists to build systems that transform uncertainty into clarity and action.
 
@@ -43,7 +43,7 @@ To build intelligent systems that help people and organizations discover opportu
 
 ## Our Vision
 
-A future where businesses are empowered by systems that continuously surface insights, eliminate inefficiencies, and unlock new opportunities for growth.
+A future where businesses are empowered by continuous intelligence that surfaces insights, eliminates inefficiencies, and unlocks new opportunities for growth.
 
 ## What Drives Us
 
@@ -57,4 +57,4 @@ A future where businesses are empowered by systems that continuously surface ins
 
 **didehLabs**
 
-*Building intelligent systems for a more capable future.*
+*Building the intelligence layer for business growth.*
